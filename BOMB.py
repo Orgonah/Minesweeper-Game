@@ -65,6 +65,7 @@ def sefr(x,y):
                 lis[x][y-1]=l[x][y-1]
 
 os.system('cls')
+
 print('\n')
 for g in range(40):
     time.sleep(1/15)
